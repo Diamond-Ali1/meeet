@@ -1,6 +1,7 @@
 #page{
 				background:#013243;
-		  font-family: 'Sen', sans-serif;				
+		                font-family: 'Sen', sans-serif;	
+                    		height:auto;	
 }
 #logo{
 				position:absolute;
